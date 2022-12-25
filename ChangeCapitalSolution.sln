@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeCapitalUtility", "ChangeCapitalUtility\ChangeCapitalUtility.csproj", "{9823D07D-7B1D-4CA7-9657-2A574BD04635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeCapitalConsoleApp", "ChangeCapitalConsoleApp\ChangeCapitalConsoleApp.csproj", "{6038EBA7-A56E-4171-9744-D7890EB06B88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9823D07D-7B1D-4CA7-9657-2A574BD04635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9823D07D-7B1D-4CA7-9657-2A574BD04635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9823D07D-7B1D-4CA7-9657-2A574BD04635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9823D07D-7B1D-4CA7-9657-2A574BD04635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6038EBA7-A56E-4171-9744-D7890EB06B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6038EBA7-A56E-4171-9744-D7890EB06B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6038EBA7-A56E-4171-9744-D7890EB06B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6038EBA7-A56E-4171-9744-D7890EB06B88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8501D441-16F0-4622-BDFA-FC192E1FC5E6}
+	EndGlobalSection
+EndGlobal
